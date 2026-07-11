@@ -168,9 +168,3 @@ Measurements are automatically stored in EEPROM every 20 minutes.
 - Shyaman Jeewannath
 - Sathsara Achintha
 - Vishwa Anjana
-
----
-
-## 📄 License
-
-MIT License
